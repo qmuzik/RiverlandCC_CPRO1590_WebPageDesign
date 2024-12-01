@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+h1{color: blue; text-align: center; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; }
+	
+	p{color: royalblue;  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+	
+	ul.circle{list-style-type: circle;}

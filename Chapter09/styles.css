@@ -1,0 +1,7 @@
+/* Principles of Web Design 6th ed. */
+/* style sheet for linking activity in Chapter 9 */
+
+
+body {font-family: georgia, serif;}
+li {line-height: 125%;}
+p {margin: 0px 20px 0px 30px}
